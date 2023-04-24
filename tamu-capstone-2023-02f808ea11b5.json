@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tamu-capstone-2023",
+  "private_key_id": "02f808ea11b501834e5bc8e5672e244db68a29ec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCI/oI3wM3KHIIM\nOcvffpSblnoDk6zjOyfQ8MPoFeRMX0cR7u8aga+GX68dOidTeFMTyafOe+3+gNDP\nfkF45HsnrMJLlbPh+QAdPP9dotw3iErgXKv+haUNm964kSXGPlDBokLpzIjNHTD1\nr58f9jsYSkRluggryr5Ezg7WuYPk7PCN26lkaVcEQtaBmEOM9Es9QbFRLcIZuNSF\niwFOmAzVHcllWUr5G5w/+mhGJ3OqWyhyD0sDywQAYjS1srrSRVJ+/TsJZiXPxDSD\ncumzwp4Yk/c7gEzSGx+rQhLds1zKBw5rFx8j4CY+yYNicZGiWMFtRvAuxbrwPvRO\n3+L0XyQDAgMBAAECggEAQjblwMXvkbNyxi7/VACOGp/CTM1JgLE8fviIcDp4lNNu\negQHTMQHD0dbUCCmFmmvmf5bnel3sI4Zn1jSk3i38AbICJmMjvn37KnpchxAHZVC\nP6x7M3PsQaYnogUCAY5oIRdpCTFjo+RqoC2pF10/1e87nQGsZmJB0ebY9D9JuVF5\nr2qscusfOVhNlaJoOSSMV2cATGFhqwE47s8OSy3Lifl7XvlqsNpDDu8bAt/z3F+j\nJGknBjVd6rX/UvYxJ2ZO7S7Ku824dXbxzn1jXH2UNUsDbntptNHQOUIIKLUO4vGD\nwUnKT7iQ/RJBCb3ReunDB74CF3QfVeWeFYCtBTyqPQKBgQC8+BZitRfr1YPywoZD\njhckRO0RMhrW93Ju+SAw9D3DlqaFBoNKKzdxvjD644Iogs5wh0cDsdvsO1sUZZvU\nLXIRlgA3DB6umuh/9+TCjRGtcDmMbBs4nDZiA11U6ATaPQ0mTgGTW7d2OzlYgZg1\nhJApDOehS4rJsOcb2h1K2GyRtwKBgQC5lq5SNWal7cKvP4Zkz3JDhvIRSEXglIG1\ncq9pGF5xQBLwI6fGRC3x0gItbEFPFF4myysbL9/fvhxP5vuWgUUjZEsKgaluDnZ8\n4xIJDk0TsV3VfygseVTD1ndff7QIdd4MJskvbZq+Lx8eqbFPJbrfeaXDAHOypHMb\n+1Wi8YJQFQKBgAP8H0y5kOWSPRQTcg1eo7JKGc2xBsvdr/YTHtCpddv4A07u0jnw\nK10kq5e+0HHWQFAzKhYz2/VhUwxdECorQyqHxT1j7gm0jo6URaisnODRawVBClnp\nQWRTudYehmuruelC39mhp37AxPbO1MzcHMYg1YmbNDQInPcDZHa9lZyFAoGANOmW\nB9A71OEF2as16PYQMNp/l5fQfGg61v28ry0IeCd5fsfbpLZ5lvF2N3ce46n98feI\n8bZjkMoGDm3fmxh+GsoUbwlqwfsToyWmVbijFxNBmoYncQ6isTcrT6n8LVFVnodM\nYt5P+Rs8NyTQba1nKyHmtcMiOXOTcg3la5CJw8UCgYEAuO4r7czmX+qWCYJqBi5K\nS2926GhkYRM75UmoFNKPbBMT93xB+0UET6HR1uatfh+4Jov6+QYftflBUwGNv2qQ\nzKpOAe0vyGHlOg8rNHt138bnpIiaKLMHeSbCJGMsqxs2OicIW6Y0BuJ+W6g5WmLC\nLTxPGaIYXR/8Pb3EWC6kG00=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dataservice@tamu-capstone-2023.iam.gserviceaccount.com",
+  "client_id": "113716662616994541923",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dataservice%40tamu-capstone-2023.iam.gserviceaccount.com"
+}
